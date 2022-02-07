@@ -1,0 +1,14 @@
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\bin\Debug\netcoreapp3.1\Ex1ContarLetras.exe
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\bin\Debug\netcoreapp3.1\Ex1ContarLetras.deps.json
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\bin\Debug\netcoreapp3.1\Ex1ContarLetras.runtimeconfig.json
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\bin\Debug\netcoreapp3.1\Ex1ContarLetras.runtimeconfig.dev.json
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\bin\Debug\netcoreapp3.1\Ex1ContarLetras.dll
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\bin\Debug\netcoreapp3.1\Ex1ContarLetras.pdb
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\obj\Debug\netcoreapp3.1\Ex1ContarLetras.csproj.AssemblyReference.cache
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\obj\Debug\netcoreapp3.1\Ex1ContarLetras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\obj\Debug\netcoreapp3.1\Ex1ContarLetras.AssemblyInfoInputs.cache
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\obj\Debug\netcoreapp3.1\Ex1ContarLetras.AssemblyInfo.cs
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\obj\Debug\netcoreapp3.1\Ex1ContarLetras.csproj.CoreCompileInputs.cache
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\obj\Debug\netcoreapp3.1\Ex1ContarLetras.dll
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\obj\Debug\netcoreapp3.1\Ex1ContarLetras.pdb
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex1ContarLetras\obj\Debug\netcoreapp3.1\Ex1ContarLetras.genruntimeconfig.cache
