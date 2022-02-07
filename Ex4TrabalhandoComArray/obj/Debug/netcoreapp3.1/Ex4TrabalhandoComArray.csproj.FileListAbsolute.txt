@@ -1,0 +1,14 @@
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\bin\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.exe
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\bin\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.deps.json
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\bin\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.runtimeconfig.json
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\bin\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.runtimeconfig.dev.json
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\bin\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.dll
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\bin\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.pdb
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\obj\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.csproj.AssemblyReference.cache
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\obj\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\obj\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.AssemblyInfoInputs.cache
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\obj\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.AssemblyInfo.cs
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\obj\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.csproj.CoreCompileInputs.cache
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\obj\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.dll
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\obj\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.pdb
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex4TrabalhandoComArray\obj\Debug\netcoreapp3.1\Ex4TrabalhandoComArray.genruntimeconfig.cache
