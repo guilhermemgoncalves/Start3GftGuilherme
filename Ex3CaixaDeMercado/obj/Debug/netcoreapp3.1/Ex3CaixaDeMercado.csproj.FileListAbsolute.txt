@@ -1,0 +1,14 @@
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\bin\Debug\netcoreapp3.1\Ex3CaixaDeMercado.exe
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\bin\Debug\netcoreapp3.1\Ex3CaixaDeMercado.deps.json
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\bin\Debug\netcoreapp3.1\Ex3CaixaDeMercado.runtimeconfig.json
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\bin\Debug\netcoreapp3.1\Ex3CaixaDeMercado.runtimeconfig.dev.json
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\bin\Debug\netcoreapp3.1\Ex3CaixaDeMercado.dll
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\bin\Debug\netcoreapp3.1\Ex3CaixaDeMercado.pdb
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\obj\Debug\netcoreapp3.1\Ex3CaixaDeMercado.csproj.AssemblyReference.cache
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\obj\Debug\netcoreapp3.1\Ex3CaixaDeMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\obj\Debug\netcoreapp3.1\Ex3CaixaDeMercado.AssemblyInfoInputs.cache
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\obj\Debug\netcoreapp3.1\Ex3CaixaDeMercado.AssemblyInfo.cs
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\obj\Debug\netcoreapp3.1\Ex3CaixaDeMercado.csproj.CoreCompileInputs.cache
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\obj\Debug\netcoreapp3.1\Ex3CaixaDeMercado.dll
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\obj\Debug\netcoreapp3.1\Ex3CaixaDeMercado.pdb
+C:\Drives\Trabalho\DIO\Start3GftGuilherme\Ex3CaixaDeMercado\obj\Debug\netcoreapp3.1\Ex3CaixaDeMercado.genruntimeconfig.cache
